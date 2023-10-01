@@ -5,3 +5,5 @@ export * from './DimensionsScreen';
 export * from './PositionRelativeScreen';
 export * from './PositionAbsoluteScreen';
 export * from './FlexScreen';
+
+export * from './PracticeScreen';
